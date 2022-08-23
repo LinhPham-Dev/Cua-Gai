@@ -14,7 +14,7 @@ const CONFIG = {
 	btnReply: "Gửi cho anh <3",
 	reply: "Yêu thì yêu mà không yêu thì hu <33333333",
 	mess: "Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘",
-	messDesc: "Tối nay anh qua đón đi nhà nghỉ nhé công chúa của anh hiii.",
+	messDesc: "Tối nay anh qua đón bé đi Hồ Tây đạp vịt nhé công chúa của anh hiii !",
 	btnAccept: "Okiiiii lun <3",
 	messLink: "https://www.messenger.com/t/100014229402317",
 };
